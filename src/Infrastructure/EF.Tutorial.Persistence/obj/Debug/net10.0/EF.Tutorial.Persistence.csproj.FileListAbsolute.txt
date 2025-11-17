@@ -1,0 +1,6 @@
+C:\github\tutorial\efcore-code-first-tutorial\src\Infrastructure\EF.Tutorial.Persistence\obj\Debug\net10.0\EF.Tutorial.Persistence.csproj.AssemblyReference.cache
+C:\github\tutorial\efcore-code-first-tutorial\src\Infrastructure\EF.Tutorial.Persistence\obj\Debug\net10.0\EF.Tutorial.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\tutorial\efcore-code-first-tutorial\src\Infrastructure\EF.Tutorial.Persistence\obj\Debug\net10.0\EF.Tutorial.Persistence.AssemblyInfoInputs.cache
+C:\github\tutorial\efcore-code-first-tutorial\src\Infrastructure\EF.Tutorial.Persistence\obj\Debug\net10.0\EF.Tutorial.Persistence.AssemblyInfo.cs
+C:\github\tutorial\efcore-code-first-tutorial\src\Infrastructure\EF.Tutorial.Persistence\obj\Debug\net10.0\EF.Tutorial.Persistence.csproj.CoreCompileInputs.cache
+C:\github\tutorial\efcore-code-first-tutorial\src\Infrastructure\EF.Tutorial.Persistence\obj\Debug\net10.0\EF.Tutorial.Persistence.sourcelink.json
