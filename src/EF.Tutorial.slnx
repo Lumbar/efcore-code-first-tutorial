@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Domain/">
+    <Project Path="Domain/EF.Tutorial.Domain/EF.Tutorial.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/EF.Tutorial.Api/EF.Tutorial.Api.csproj" />
+    <Project Path="Infrastructure/EF.Tutorial.Persistence/EF.Tutorial.Persistence.csproj" />
+  </Folder>
+</Solution>
