@@ -9,7 +9,7 @@ internal static class UserCompanyAccessSeed
     {
         var seedTimestamp = new DateTime(2025, 11, 17, 00, 00, 00, DateTimeKind.Utc);
 
-        modelBuilder.Entity<Company>().HasData(
+        modelBuilder.Entity<UserCompanyAccess>().HasData(
             new UserCompanyAccess
             {
                 Id = Guid.Parse("f0c8a3d9-91c4-44bb-af40-6b77c0dd3d8b"),
